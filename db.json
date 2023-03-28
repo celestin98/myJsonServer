@@ -1,9 +1,7 @@
 {
-  "transaction":{
-    "5555222D":{
+  "transaction-5555222D":{
       "amount":5000,
     "merchant":"Amazone"
     }
     
-  }
 }
